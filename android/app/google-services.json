@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551505533278",
+    "project_id": "voiture-dfd48",
+    "storage_bucket": "voiture-dfd48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551505533278:android:d670f9f2eab1b94755d7cf",
+        "android_client_info": {
+          "package_name": "com.example.voitrure_automobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551505533278-40jors1fhir020krht3ain9rc53d6oia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwozigOVFOWZj285M-8XhCtL7ablK06rE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551505533278-40jors1fhir020krht3ain9rc53d6oia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
